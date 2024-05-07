@@ -1,0 +1,106 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": "2:785625037113331970",
+      "lastPropertyId": "11:8045023228361403586",
+      "name": "FoodItem",
+      "properties": [
+        {
+          "id": "1:6880699874258645301",
+          "name": "barcode",
+          "type": 9
+        },
+        {
+          "id": "2:3429851204135421155",
+          "name": "productionDate",
+          "type": 10
+        },
+        {
+          "id": "4:3004748824203648497",
+          "name": "name",
+          "type": 9
+        },
+        {
+          "id": "5:440494540905450820",
+          "name": "location",
+          "type": 9
+        },
+        {
+          "id": "6:1050663383077809616",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "7:4354415216741452803",
+          "name": "shelfLife",
+          "type": 6
+        },
+        {
+          "id": "8:3000630801495338639",
+          "name": "shelfLifeUnitIndex",
+          "type": 6
+        },
+        {
+          "id": "10:8657617901754435673",
+          "name": "imageId",
+          "type": 11,
+          "flags": 520,
+          "indexId": "2:8557041446375813089",
+          "relationTarget": "FoodImage"
+        },
+        {
+          "id": "11:8045023228361403586",
+          "name": "kindIndex",
+          "type": 6
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "3:4399451452550884965",
+      "lastPropertyId": "2:8577180915537925897",
+      "name": "FoodImage",
+      "properties": [
+        {
+          "id": "1:3149552173221309877",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:8577180915537925897",
+          "name": "image",
+          "type": 23
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "lastEntityId": "3:4399451452550884965",
+  "lastIndexId": "2:8557041446375813089",
+  "lastRelationId": "0:0",
+  "lastSequenceId": "0:0",
+  "modelVersion": 5,
+  "modelVersionParserMinimum": 5,
+  "retiredEntityUids": [
+    3511392915814559695
+  ],
+  "retiredIndexUids": [
+    2897447790740984793
+  ],
+  "retiredPropertyUids": [
+    4347389526527401443,
+    5950787551962424345,
+    5440004278180372648,
+    3451878046990469289,
+    713245602490420950,
+    4789846676784205074,
+    7358805984737454826
+  ],
+  "retiredRelationUids": [],
+  "version": 1
+}
