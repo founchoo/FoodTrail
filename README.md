@@ -1,4 +1,4 @@
-# ![App Banner](assets\images\banner_en.png)
+# ![App Banner](assets/images/banner_en.png)
 
 ## Introduction
 
