@@ -14,8 +14,4 @@ This app is built with Flutter.
 
 ## Screenshots
 
-<img src="assets/images/ss_home.jpg" alt="Home Screen" width="200"/>
-<img src="assets/images/ss_detail.jpg" alt="Detail Screen" width="200"/>
-<img src="assets/images/ss_barcode.jpg" alt="Barcode Screen" width="200"/>
-<img src="assets/images/ss_search.jpg" alt="Search Screen" width="200"/>
-<img src="assets/images/ss_settings.jpg" alt="Settings Screen" width="200"/>
+<img src="assets/images/ss_home.jpg" alt="Home Screen" width="200"/><img src="assets/images/ss_detail.jpg" alt="Detail Screen" width="200"/><img src="assets/images/ss_barcode.jpg" alt="Barcode Screen" width="200"/><img src="assets/images/ss_search.jpg" alt="Search Screen" width="200"/><img src="assets/images/ss_settings.jpg" alt="Settings Screen" width="200"/>
